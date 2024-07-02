@@ -9,7 +9,7 @@ import {
 
 const Footer = () => (
 	<div
-		className='w-full grid lg:grid-cols-3 gap-8 text-gray-300 max-w-[1240px] mx-auto py-16 px-4 '
+		className='w-full grid lg:grid-cols-3 gap-8 text-gray-300 max-w-[1240px] mx-auto py-16 px-10 '
 		id='footer'
 	>
 		<div>
@@ -46,7 +46,7 @@ const Footer = () => (
 		</div>
 		<div className='lg:col-span-2 flex justify-between font-medium text-sm'>
 			<div>
-				<p className='mb-4 hover:text-[#b028b0] duration-200'>
+				<p className='mb-4 hover:text-[#b028b0] duration-200 text-lg'>
 					Solutions
 				</p>
 				<p className='mb-4 hover:text-[#b028b0] duration-200'>
@@ -63,7 +63,7 @@ const Footer = () => (
 				</p>
 			</div>
 			<div>
-				<p className='pb-4 hover:text-[#b028b0] duration-200'>
+				<p className='pb-4 hover:text-[#b028b0] duration-200 text-lg'>
 					Support
 				</p>
 				<p className='pb-4 hover:text-[#b028b0] duration-200'>
@@ -78,7 +78,7 @@ const Footer = () => (
 				</p>
 			</div>
 			<div>
-				<p className='pb-4 hover:text-[#b028b0] duration-200'>
+				<p className='pb-4 hover:text-[#b028b0] duration-200 text-lg'>
 					Solutions
 				</p>
 				<p className='pb-4 hover:text-[#b028b0] duration-200'>
@@ -95,7 +95,7 @@ const Footer = () => (
 				</p>
 			</div>
 			<div>
-				<p className='pb-4 hover:text-[#b028b0] duration-200'>
+				<p className='pb-4 hover:text-[#b028b0] duration-200 text-lg'>
 					Company
 				</p>
 				<p className='pb-4 hover:text-[#b028b0] duration-200'>About</p>

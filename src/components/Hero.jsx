@@ -28,7 +28,7 @@ const Hero = () => {
 					& SASS platforms
 				</p>
 
-				<button className='bg-[#b028b0] w-[200px] rounded-md h-10 mx-auto mt-4 font-bold text-lg md:text-xl '>
+				<button className='bg-[#b028b0] w-[200px] rounded-md h-10 mx-auto mt-4 font-bold text-lg md:text-xl transition duration-300 hover:bg-red-400'>
 					Get Started
 				</button>
 			</div>

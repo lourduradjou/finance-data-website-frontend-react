@@ -4,7 +4,7 @@ const Card = ({ image, title, features, price, center }) => {
 	const bgClass = center ? center : 'bg-gray-100'
 	return (
 		<div
-			className={`w-full ${bgClass} shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300`}
+			className={`w-full ${bgClass} shadow-xl flex flex-col p-4 my-6 rounded-lg hover:scale-105 duration-300`}
 		>
 			<img
 				className='w-20 mx-auto bg-transparent mt-[-3rem]'
@@ -20,7 +20,7 @@ const Card = ({ image, title, features, price, center }) => {
 					</p>
 				))}
 			</div>
-			<button className='bg-[#b028b0] w-[200px] rounded-md h-10 mx-auto mt-4 font-bold text-lg md:text-xl '>
+			<button className='bg-[#b028b0] w-[200px] rounded-md h-10 mx-auto mt-4 font-bold text-lg md:text-xl transition duration-300 hover:bg-red-400'>
 				Start Trial
 			</button>
 		</div>
