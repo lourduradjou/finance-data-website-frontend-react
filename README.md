@@ -4,7 +4,8 @@ This project is a React-based website that displays finance webapp.
 
 ## Live Demo
 
-Check out the live demo [here](https://lourduradjou.github.io/finance-data-website-frontend-react/).
+Check out the live demo <a href="https://lourduradjou.github.io/finance-data-website-frontend-react/" target="_blank">here</a>.
+
 
 ## Technologies Used
 
