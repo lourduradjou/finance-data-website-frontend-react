@@ -22,7 +22,9 @@ To get a local copy up and running follow these simple steps.
    git clone https://github.com/lourduradjou/finance-data-website-frontend-react.git
    
 2. Install dependencies
+   ```sh
    npm install
    
-4. Run the project
+3. Run the project
+   ```sh
    npm start
