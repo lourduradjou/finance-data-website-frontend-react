@@ -6,7 +6,10 @@ import Card from './Card'
 
 const CardSection = () => {
 	return (
-		<div className='w-full py-[10rem] md:px-10 px-[100px] bg-white'>
+		<div
+			className='w-full py-[10rem] md:px-10 px-[100px] bg-white'
+			id='resources'
+		>
 			<div className='max-w-[1240px] mx-auto  grid md:grid-cols-3 gap-8'>
 				<Card
 					image={single}

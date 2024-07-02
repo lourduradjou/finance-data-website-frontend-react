@@ -8,7 +8,10 @@ import {
 } from 'react-icons/fa'
 
 const Footer = () => (
-	<div className='w-full grid lg:grid-cols-3 gap-8 text-gray-300 max-w-[1240px] mx-auto py-16 px-4 '>
+	<div
+		className='w-full grid lg:grid-cols-3 gap-8 text-gray-300 max-w-[1240px] mx-auto py-16 px-4 '
+		id='footer'
+	>
 		<div>
 			<h1 className='text-xl font-bold w-full hover:text-[#b028b0] duration-200'>
 				REACT.

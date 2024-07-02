@@ -3,7 +3,7 @@ import { ReactTyped } from 'react-typed'
 
 const Hero = () => {
 	return (
-		<div className='text-white'>
+		<div className='text-white' id='hero'>
 			<div className=' max-w-[800px] mt-[-96px] w-full h-screen flex flex-col justify-center mx-auto text-center'>
 				<p className='uppercase text-[#00df9a] font-bold p-2'>
 					Growing with data analytics
