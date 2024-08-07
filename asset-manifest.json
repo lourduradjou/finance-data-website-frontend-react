@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/finance-data-website-frontend-react/static/css/main.8c38bd50.css",
-    "main.js": "/finance-data-website-frontend-react/static/js/main.fc528a17.js",
+    "main.css": "/finance-data-website-frontend-react/static/css/main.35c8b92a.css",
+    "main.js": "/finance-data-website-frontend-react/static/js/main.b41b995e.js",
     "static/media/laptop.jpg": "/finance-data-website-frontend-react/static/media/laptop.45ddf500e572fb2f1d35.jpg",
     "static/media/single.png": "/finance-data-website-frontend-react/static/media/single.20196aa3e7e7fa48f8f7.png",
     "static/media/double.png": "/finance-data-website-frontend-react/static/media/double.8be045e6bb88be63d414.png",
     "static/media/triple.png": "/finance-data-website-frontend-react/static/media/triple.4eb8f19f4b4647321484.png",
     "index.html": "/finance-data-website-frontend-react/index.html",
-    "main.8c38bd50.css.map": "/finance-data-website-frontend-react/static/css/main.8c38bd50.css.map",
-    "main.fc528a17.js.map": "/finance-data-website-frontend-react/static/js/main.fc528a17.js.map"
+    "main.35c8b92a.css.map": "/finance-data-website-frontend-react/static/css/main.35c8b92a.css.map",
+    "main.b41b995e.js.map": "/finance-data-website-frontend-react/static/js/main.b41b995e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c38bd50.css",
-    "static/js/main.fc528a17.js"
+    "static/css/main.35c8b92a.css",
+    "static/js/main.b41b995e.js"
   ]
 }
